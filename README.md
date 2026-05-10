@@ -95,7 +95,6 @@ Evaluación e implementación de Nexus Repository OSS:
 - Prefiero ser consultado antes de decisiones importantes
 - Documentación clara en código y guías internas
 ---
-  
 ## 🎓 Certifications & Guides
  
 - **SonarQube for Squad 1** — Documentación interna (template ZYT-GDSQX-DET-001)
